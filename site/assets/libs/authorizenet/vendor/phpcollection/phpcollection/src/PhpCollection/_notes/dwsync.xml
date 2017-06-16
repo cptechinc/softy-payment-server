@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCollection.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325478541266" remote="131400505800000000" Dst="2" />
+<file name="AbstractMap.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325478851441" remote="131400505800000000" Dst="2" />
+<file name="AbstractSequence.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479021567" remote="131400505800000000" Dst="2" />
+<file name="CollectionInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479131640" remote="131400505800000000" Dst="2" />
+<file name="EntityLikeObject.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479271734" remote="131400505800000000" Dst="2" />
+<file name="Map.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479351787" remote="131400505800000000" Dst="2" />
+<file name="MapInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479481874" remote="131400505800000000" Dst="2" />
+<file name="ObjectBasics.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479572720" remote="131400505800000000" Dst="2" />
+<file name="ObjectBasicsHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325479662783" remote="131400505800000000" Dst="2" />
+<file name="ObjectBasicsHandlerRegistry.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480113561" remote="131400505800000000" Dst="2" />
+<file name="Sequence.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480203518" remote="131400505800000000" Dst="2" />
+<file name="SequenceInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480323598" remote="131400505800000000" Dst="2" />
+<file name="Set.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480603794" remote="131400505800000000" Dst="2" />
+<file name="SetInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480713855" remote="131400505800000000" Dst="2" />
+<file name="SortableInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480793912" remote="131400505800000000" Dst="2" />
+<file name="SortedSequence.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325480974339" remote="131400505800000000" Dst="2" />
+<file name="AbstractCollection.php" server="216.17.51.113//var/www/html/payments/" local="131400325478541266" remote="131415097130000000" Dst="2" />
+<file name="AbstractMap.php" server="216.17.51.113//var/www/html/payments/" local="131400325478851441" remote="131415097130000000" Dst="2" />
+<file name="AbstractSequence.php" server="216.17.51.113//var/www/html/payments/" local="131400325479021567" remote="131415097130000000" Dst="2" />
+<file name="CollectionInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325479131640" remote="131415097130000000" Dst="2" />
+<file name="EntityLikeObject.php" server="216.17.51.113//var/www/html/payments/" local="131400325479271734" remote="131415097130000000" Dst="2" />
+<file name="Map.php" server="216.17.51.113//var/www/html/payments/" local="131400325479351787" remote="131415097140000000" Dst="2" />
+<file name="MapInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325479481874" remote="131415097140000000" Dst="2" />
+<file name="ObjectBasics.php" server="216.17.51.113//var/www/html/payments/" local="131400325479572720" remote="131415097140000000" Dst="2" />
+<file name="ObjectBasicsHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325479662783" remote="131415097160000000" Dst="2" />
+<file name="ObjectBasicsHandlerRegistry.php" server="216.17.51.113//var/www/html/payments/" local="131400325480113561" remote="131415097160000000" Dst="2" />
+<file name="Sequence.php" server="216.17.51.113//var/www/html/payments/" local="131400325480203518" remote="131415097160000000" Dst="2" />
+<file name="SequenceInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325480323598" remote="131415097160000000" Dst="2" />
+<file name="Set.php" server="216.17.51.113//var/www/html/payments/" local="131400325480603794" remote="131415097170000000" Dst="2" />
+<file name="SetInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325480713855" remote="131415097170000000" Dst="2" />
+<file name="SortableInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325480793912" remote="131415097170000000" Dst="2" />
+<file name="SortedSequence.php" server="216.17.51.113//var/www/html/payments/" local="131400325480974339" remote="131415097170000000" Dst="2" />
+</dwsync>

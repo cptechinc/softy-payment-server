@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325569399822" remote="131400505800000000" Dst="2" />
+<file name="BaseSerializationTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325569720020" remote="131400505800000000" Dst="2" />
+<file name="ContextTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325569970190" remote="131400505800000000" Dst="2" />
+<file name="DateIntervalFormatTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325570130299" remote="131400505800000000" Dst="2" />
+<file name="GraphNavigatorTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325572091985" remote="131400505800000000" Dst="2" />
+<file name="JsonSerializationTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325572302115" remote="131400505800000000" Dst="2" />
+<file name="SerializationContextFactoryTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325572752829" remote="131400505800000000" Dst="2" />
+<file name="TypeParserTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325572942956" remote="131400505800000000" Dst="2" />
+<file name="XmlSerializationTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325573193129" remote="131400505800000000" Dst="2" />
+<file name="YamlSerializationTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325573473322" remote="131400505800000000" Dst="2" />
+<file name="ArrayTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325569399822" remote="131415096710000000" Dst="2" />
+<file name="BaseSerializationTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325569720020" remote="131415096710000000" Dst="2" />
+<file name="ContextTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325569970190" remote="131415096710000000" Dst="2" />
+<file name="DateIntervalFormatTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325570130299" remote="131415096710000000" Dst="2" />
+<file name="GraphNavigatorTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325572091985" remote="131415096750000000" Dst="2" />
+<file name="JsonSerializationTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325572302115" remote="131415096750000000" Dst="2" />
+<file name="SerializationContextFactoryTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325572752829" remote="131415096770000000" Dst="2" />
+<file name="TypeParserTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325572942956" remote="131415096770000000" Dst="2" />
+<file name="XmlSerializationTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325573193129" remote="131415096920000000" Dst="2" />
+<file name="YamlSerializationTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325573473322" remote="131415096930000000" Dst="2" />
+</dwsync>

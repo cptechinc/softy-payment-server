@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractClassAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325429584044" remote="131400505800000000" Dst="2" />
+<file name="ArrayObjectAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325429684127" remote="131400505800000000" Dst="2" />
+<file name="ExceptionAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325429784175" remote="131400505800000000" Dst="2" />
+<file name="FinalExceptionAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325429884241" remote="131400505800000000" Dst="2" />
+<file name="PharAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325429984314" remote="131400505800000000" Dst="2" />
+<file name="PharExceptionAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430084384" remote="131400505800000000" Dst="2" />
+<file name="SerializableArrayObjectAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430194454" remote="131400505800000000" Dst="2" />
+<file name="SimpleSerializableAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430294521" remote="131400505800000000" Dst="2" />
+<file name="SimpleTraitAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430404591" remote="131400505800000000" Dst="2" />
+<file name="UnserializeExceptionArrayObjectAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430614738" remote="131400505800000000" Dst="2" />
+<file name="UnCloneableAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430504655" remote="131400505800000000" Dst="2" />
+<file name="WakeUpNoticesAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430714801" remote="131400505800000000" Dst="2" />
+<file name="XMLReaderAsset.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325430824868" remote="131400505800000000" Dst="2" />
+<file name="AbstractClassAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325429584044" remote="131415095290000000" Dst="2" />
+<file name="ArrayObjectAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325429684127" remote="131415095290000000" Dst="2" />
+<file name="ExceptionAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325429784175" remote="131415095290000000" Dst="2" />
+<file name="FinalExceptionAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325429884241" remote="131415095300000000" Dst="2" />
+<file name="PharAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325429984314" remote="131415095300000000" Dst="2" />
+<file name="PharExceptionAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430084384" remote="131415095300000000" Dst="2" />
+<file name="SerializableArrayObjectAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430194454" remote="131415095300000000" Dst="2" />
+<file name="SimpleSerializableAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430294521" remote="131415095300000000" Dst="2" />
+<file name="SimpleTraitAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430404591" remote="131415095300000000" Dst="2" />
+<file name="UnCloneableAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430504655" remote="131415095310000000" Dst="2" />
+<file name="UnserializeExceptionArrayObjectAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430614738" remote="131415095310000000" Dst="2" />
+<file name="WakeUpNoticesAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430714801" remote="131415095310000000" Dst="2" />
+<file name="XMLReaderAsset.php" server="216.17.51.113//var/www/html/payments/" local="131400325430824868" remote="131415095310000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseClass.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325509883237" remote="131400505800000000" Dst="2" />
+<file name="InterfaceA.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325509953294" remote="131400505800000000" Dst="2" />
+<file name="InterfaceB.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325510033344" remote="131400505800000000" Dst="2" />
+<file name="SubClassA.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325510093384" remote="131400505800000000" Dst="2" />
+<file name="SubClassB.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325510163424" remote="131400505800000000" Dst="2" />
+<file name="BaseClass.php" server="216.17.51.113//var/www/html/payments/" local="131400325509883237" remote="131415095610000000" Dst="2" />
+<file name="InterfaceA.php" server="216.17.51.113//var/www/html/payments/" local="131400325509953294" remote="131415095610000000" Dst="2" />
+<file name="InterfaceB.php" server="216.17.51.113//var/www/html/payments/" local="131400325510033344" remote="131415095610000000" Dst="2" />
+<file name="SubClassA.php" server="216.17.51.113//var/www/html/payments/" local="131400325510093384" remote="131415095610000000" Dst="2" />
+<file name="SubClassB.php" server="216.17.51.113//var/www/html/payments/" local="131400325510163424" remote="131415095610000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="generateControllersFromTemplate.sh" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325657692755" remote="131400505800000000" Dst="2" />
+<file name="generateObjectsFromXsd.sh" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325657762818" remote="131400505800000000" Dst="2" />
+<file name="masterUpdate.sh" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325657822842" remote="131400505800000000" Dst="2" />
+<file name="generateControllersFromTemplate.sh" server="216.17.51.113//var/www/html/payments/" local="131400325657692755" remote="131415095000000000" Dst="2" />
+<file name="generateObjectsFromXsd.sh" server="216.17.51.113//var/www/html/payments/" local="131400325657762818" remote="131415095000000000" Dst="2" />
+<file name="masterUpdate.sh" server="216.17.51.113//var/www/html/payments/" local="131400325657822842" remote="131415095000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallableContextFactory.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532003018" remote="131400505800000000" Dst="2" />
+<file name="CallableDeserializationContextFactory.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532143102" remote="131400505800000000" Dst="2" />
+<file name="CallableSerializationContextFactory.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532293212" remote="131400505800000000" Dst="2" />
+<file name="DefaultDeserializationContextFactory.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532433296" remote="131400505800000000" Dst="2" />
+<file name="DefaultSerializationContextFactory.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532573399" remote="131400505800000000" Dst="2" />
+<file name="DeserializationContextFactoryInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532663459" remote="131400505800000000" Dst="2" />
+<file name="SerializationContextFactoryInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325532743515" remote="131400505800000000" Dst="2" />
+<file name="CallableContextFactory.php" server="216.17.51.113//var/www/html/payments/" local="131400325532003018" remote="131415095920000000" Dst="2" />
+<file name="CallableDeserializationContextFactory.php" server="216.17.51.113//var/www/html/payments/" local="131400325532143102" remote="131415095920000000" Dst="2" />
+<file name="CallableSerializationContextFactory.php" server="216.17.51.113//var/www/html/payments/" local="131400325532293212" remote="131415095930000000" Dst="2" />
+<file name="DefaultDeserializationContextFactory.php" server="216.17.51.113//var/www/html/payments/" local="131400325532433296" remote="131415095930000000" Dst="2" />
+<file name="DefaultSerializationContextFactory.php" server="216.17.51.113//var/www/html/payments/" local="131400325532573399" remote="131415095930000000" Dst="2" />
+<file name="DeserializationContextFactoryInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325532663459" remote="131415095930000000" Dst="2" />
+<file name="SerializationContextFactoryInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325532743515" remote="131415095930000000" Dst="2" />
+</dwsync>

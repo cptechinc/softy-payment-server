@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthorizeNetAIM_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325658143049" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetARB_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325658343218" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetCIM_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325658563329" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetCP_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325658813518" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetDPM_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325658903569" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetSIM_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659063675" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetSSL_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659163748" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNetTD_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659403899" remote="131400505800000000" Dst="2" />
+<file name="AuthorizeNet_SOAP_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659533998" remote="131400505800000000" Dst="2" />
+<file name="bootstrap.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659854192" remote="131400505800000000" Dst="2" />
+<file name="Controller_Test.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659714109" remote="131400505800000000" Dst="2" />
+<file name="domain.crt" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325659924249" remote="131400505800000000" Dst="2" />
+<file name="report.html" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325660594705" remote="131400505800000000" Dst="2" />
+<file name="report.html" server="216.17.51.113//var/www/html/payments/" local="131400325660594705" remote="131415095070000000" Dst="2" />
+<file name="AuthorizeNetAIM_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325658143049" remote="131415095020000000" Dst="2" />
+<file name="AuthorizeNetARB_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325658343218" remote="131415095020000000" Dst="2" />
+<file name="AuthorizeNetCIM_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325658563329" remote="131415095020000000" Dst="2" />
+<file name="AuthorizeNetCP_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325658813518" remote="131415095020000000" Dst="2" />
+<file name="AuthorizeNetDPM_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325658903569" remote="131415095020000000" Dst="2" />
+<file name="AuthorizeNetSIM_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325659063675" remote="131415095030000000" Dst="2" />
+<file name="AuthorizeNetSSL_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325659163748" remote="131415095030000000" Dst="2" />
+<file name="AuthorizeNetTD_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325659403899" remote="131415095030000000" Dst="2" />
+<file name="AuthorizeNet_SOAP_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325659533998" remote="131415095030000000" Dst="2" />
+<file name="bootstrap.php" server="216.17.51.113//var/www/html/payments/" local="131400325659854192" remote="131415095030000000" Dst="2" />
+<file name="Controller_Test.php" server="216.17.51.113//var/www/html/payments/" local="131400325659714109" remote="131415095030000000" Dst="2" />
+<file name="domain.crt" server="216.17.51.113//var/www/html/payments/" local="131400325659924249" remote="131415095040000000" Dst="2" />
+</dwsync>

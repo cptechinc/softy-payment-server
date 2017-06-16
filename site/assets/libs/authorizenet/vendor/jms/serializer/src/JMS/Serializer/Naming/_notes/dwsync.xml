@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CacheNamingStrategy.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325542751216" remote="131400505800000000" Dst="2" />
+<file name="CamelCaseNamingStrategy.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325542921316" remote="131400505800000000" Dst="2" />
+<file name="IdenticalPropertyNamingStrategy.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325543071926" remote="131400505800000000" Dst="2" />
+<file name="PropertyNamingStrategyInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325543151980" remote="131400505800000000" Dst="2" />
+<file name="SerializedNameAnnotationStrategy.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325543302080" remote="131400505800000000" Dst="2" />
+<file name="CacheNamingStrategy.php" server="216.17.51.113//var/www/html/payments/" local="131400325542751216" remote="131415096100000000" Dst="2" />
+<file name="CamelCaseNamingStrategy.php" server="216.17.51.113//var/www/html/payments/" local="131400325542921316" remote="131415096100000000" Dst="2" />
+<file name="IdenticalPropertyNamingStrategy.php" server="216.17.51.113//var/www/html/payments/" local="131400325543071926" remote="131415096110000000" Dst="2" />
+<file name="PropertyNamingStrategyInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325543151980" remote="131415096110000000" Dst="2" />
+<file name="SerializedNameAnnotationStrategy.php" server="216.17.51.113//var/www/html/payments/" local="131400325543302080" remote="131415096110000000" Dst="2" />
+</dwsync>

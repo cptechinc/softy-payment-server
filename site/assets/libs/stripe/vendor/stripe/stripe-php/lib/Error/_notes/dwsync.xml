@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Api.php" server="216.17.51.113//var/www/html/payments/" local="131406502604172351" remote="131415097660000000" Dst="2" />
+<file name="ApiConnection.php" server="216.17.51.113//var/www/html/payments/" local="131406502604242404" remote="131415097660000000" Dst="2" />
+<file name="Authentication.php" server="216.17.51.113//var/www/html/payments/" local="131406502604292437" remote="131415097670000000" Dst="2" />
+<file name="Base.php" server="216.17.51.113//var/www/html/payments/" local="131406502604392494" remote="131415097670000000" Dst="2" />
+<file name="Card.php" server="216.17.51.113//var/www/html/payments/" local="131406502604562617" remote="131415097670000000" Dst="2" />
+<file name="InvalidRequest.php" server="216.17.51.113//var/www/html/payments/" local="131406502604682697" remote="131415097670000000" Dst="2" />
+<file name="Permission.php" server="216.17.51.113//var/www/html/payments/" local="131406502604742728" remote="131415097670000000" Dst="2" />
+<file name="RateLimit.php" server="216.17.51.113//var/www/html/payments/" local="131406502604802768" remote="131415097670000000" Dst="2" />
+<file name="SignatureVerification.php" server="216.17.51.113//var/www/html/payments/" local="131406502604912838" remote="131415097670000000" Dst="2" />
+</dwsync>

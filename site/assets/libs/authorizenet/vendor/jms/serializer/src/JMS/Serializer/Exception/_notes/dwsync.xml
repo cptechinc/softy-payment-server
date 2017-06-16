@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Exception.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325534825204" remote="131400505800000000" Dst="2" />
+<file name="ExpressionLanguageRequiredException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325534915260" remote="131400505800000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535005330" remote="131400505800000000" Dst="2" />
+<file name="LogicException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535115394" remote="131400505800000000" Dst="2" />
+<file name="ObjectConstructionException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535195453" remote="131400505800000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535285510" remote="131400505800000000" Dst="2" />
+<file name="UnsupportedFormatException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535365564" remote="131400505800000000" Dst="2" />
+<file name="ValidationFailedException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535515670" remote="131400505800000000" Dst="2" />
+<file name="XmlErrorException.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325535665760" remote="131400505800000000" Dst="2" />
+<file name="Exception.php" server="216.17.51.113//var/www/html/payments/" local="131400325534825204" remote="131415095980000000" Dst="2" />
+<file name="ExpressionLanguageRequiredException.php" server="216.17.51.113//var/www/html/payments/" local="131400325534915260" remote="131415095980000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535005330" remote="131415095980000000" Dst="2" />
+<file name="LogicException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535115394" remote="131415095980000000" Dst="2" />
+<file name="ObjectConstructionException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535195453" remote="131415095980000000" Dst="2" />
+<file name="RuntimeException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535285510" remote="131415095990000000" Dst="2" />
+<file name="UnsupportedFormatException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535365564" remote="131415095990000000" Dst="2" />
+<file name="ValidationFailedException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535515670" remote="131415095990000000" Dst="2" />
+<file name="XmlErrorException.php" server="216.17.51.113//var/www/html/payments/" local="131400325535665760" remote="131415095990000000" Dst="2" />
+</dwsync>

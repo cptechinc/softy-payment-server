@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayCollectionHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325537777190" remote="131400505800000000" Dst="2" />
+<file name="ConstraintViolationHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325537967297" remote="131400505800000000" Dst="2" />
+<file name="DateHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325538207477" remote="131400505800000000" Dst="2" />
+<file name="FormErrorHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325538427604" remote="131400505800000000" Dst="2" />
+<file name="HandlerRegistry.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325538597727" remote="131400505800000000" Dst="2" />
+<file name="HandlerRegistryInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325538688505" remote="131400505800000000" Dst="2" />
+<file name="LazyHandlerRegistry.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325538858599" remote="131400505800000000" Dst="2" />
+<file name="PhpCollectionHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325539028713" remote="131400505800000000" Dst="2" />
+<file name="PropelCollectionHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325539188820" remote="131400505800000000" Dst="2" />
+<file name="StdClassHandler.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325539348945" remote="131400505800000000" Dst="2" />
+<file name="SubscribingHandlerInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325539449006" remote="131400505800000000" Dst="2" />
+<file name="ArrayCollectionHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325537777190" remote="131415096030000000" Dst="2" />
+<file name="ConstraintViolationHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325537967297" remote="131415096040000000" Dst="2" />
+<file name="DateHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325538207477" remote="131415096040000000" Dst="2" />
+<file name="FormErrorHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325538427604" remote="131415096040000000" Dst="2" />
+<file name="HandlerRegistry.php" server="216.17.51.113//var/www/html/payments/" local="131400325538597727" remote="131415096040000000" Dst="2" />
+<file name="HandlerRegistryInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325538688505" remote="131415096040000000" Dst="2" />
+<file name="LazyHandlerRegistry.php" server="216.17.51.113//var/www/html/payments/" local="131400325538858599" remote="131415096040000000" Dst="2" />
+<file name="PhpCollectionHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325539028713" remote="131415096050000000" Dst="2" />
+<file name="PropelCollectionHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325539188820" remote="131415096050000000" Dst="2" />
+<file name="StdClassHandler.php" server="216.17.51.113//var/www/html/payments/" local="131400325539348945" remote="131415096050000000" Dst="2" />
+<file name="SubscribingHandlerInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325539449006" remote="131415096050000000" Dst="2" />
+</dwsync>

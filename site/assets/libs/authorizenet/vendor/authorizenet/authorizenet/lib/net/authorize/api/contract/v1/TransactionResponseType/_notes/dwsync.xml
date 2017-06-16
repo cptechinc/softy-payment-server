@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EmvResponseAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325632811483" remote="131400505800000000" Dst="2" />
+<file name="ErrorsAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325633041634" remote="131400505800000000" Dst="2" />
+<file name="MessagesAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325633261793" remote="131400505800000000" Dst="2" />
+<file name="PrePaidCardAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325633612027" remote="131400505800000000" Dst="2" />
+<file name="SecureAcceptanceAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325633782130" remote="131400505800000000" Dst="2" />
+<file name="SplitTenderPaymentsAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325633962250" remote="131400505800000000" Dst="2" />
+<file name="UserFieldsAType.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325634422785" remote="131400505800000000" Dst="2" />
+<file name="EmvResponseAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325632811483" remote="131415094410000000" Dst="2" />
+<file name="ErrorsAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325633041634" remote="131415094420000000" Dst="2" />
+<file name="MessagesAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325633261793" remote="131415094430000000" Dst="2" />
+<file name="PrePaidCardAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325633612027" remote="131415094430000000" Dst="2" />
+<file name="SecureAcceptanceAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325633782130" remote="131415094430000000" Dst="2" />
+<file name="SplitTenderPaymentsAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325633962250" remote="131415094450000000" Dst="2" />
+<file name="UserFieldsAType.php" server="216.17.51.113//var/www/html/payments/" local="131400325634422785" remote="131415094450000000" Dst="2" />
+</dwsync>

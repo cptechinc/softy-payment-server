@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325428112715" remote="131400505800000000" Dst="2" />
+<file name="CONTRIBUTING.md" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325427892558" remote="131400505800000000" Dst="2" />
+<file name="LICENSE" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325427952595" remote="131400505800000000" Dst="2" />
+<file name="phpmd.xml.dist" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325428182765" remote="131400505800000000" Dst="2" />
+<file name="phpunit.xml.dist" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325428232795" remote="131400505800000000" Dst="2" />
+<file name="README.md" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325428052678" remote="131400505800000000" Dst="2" />
+<file name=".gitignore" server="216.17.51.113//var/www/html/payments/" local="131400325427612397" remote="131415095210000000" Dst="2" />
+<file name=".scrutinizer.yml" server="216.17.51.113//var/www/html/payments/" local="131400325427702441" remote="131415095210000000" Dst="2" />
+<file name=".travis.install.sh" server="216.17.51.113//var/www/html/payments/" local="131400325427772491" remote="131415095210000000" Dst="2" />
+<file name=".travis.yml" server="216.17.51.113//var/www/html/payments/" local="131400325427832528" remote="131415095210000000" Dst="2" />
+<file name="composer.json" server="216.17.51.113//var/www/html/payments/" local="131400325428112715" remote="131415095210000000" Dst="2" />
+<file name="CONTRIBUTING.md" server="216.17.51.113//var/www/html/payments/" local="131400325427892558" remote="131415095220000000" Dst="2" />
+<file name="LICENSE" server="216.17.51.113//var/www/html/payments/" local="131400325427952595" remote="131415095220000000" Dst="2" />
+<file name="phpmd.xml.dist" server="216.17.51.113//var/www/html/payments/" local="131400325428182765" remote="131415095220000000" Dst="2" />
+<file name="phpunit.xml.dist" server="216.17.51.113//var/www/html/payments/" local="131400325428232795" remote="131415095220000000" Dst="2" />
+<file name="README.md" server="216.17.51.113//var/www/html/payments/" local="131400325428052678" remote="131415095220000000" Dst="2" />
+</dwsync>

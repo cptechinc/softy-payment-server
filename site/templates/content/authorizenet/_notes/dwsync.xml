@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="authorize-capture.php" server="216.17.51.113//var/www/html/payments/" local="131415172725281591" remote="131415172780000000" Dst="2" />
+<file name="capture-preauthorized.php" server="216.17.51.113//var/www/html/payments/" local="131415178253480323" remote="131415178800000000" Dst="2" />
+<file name="client-send-request.php" server="216.17.51.113//var/www/html/payments/" local="131417778877397103" remote="131417778980000000" Dst="2" />
+<file name="authorize-refund.php" server="216.17.51.113//var/www/html/payments/" local="131415178180732515" remote="131415178780000000" Dst="2" />
+<file name="server-process-request.php" server="216.17.51.113//var/www/html/payments/" local="131415164412178892" remote="131415164470000000" Dst="2" />
+<file name="functions.php" server="216.17.51.113//var/www/html/payments/" local="131414930990000000" remote="131415178830000000" Dst="2" />
+<file name="request-to-payment-server.php" server="216.17.51.113//var/www/html/payments/" local="131414930990000000" remote="131415178850000000" Dst="2" />
+<file name="authorizenet-router.php" server="216.17.51.113//var/www/html/payments/" local="131415166659326799" remote="131415166710000000" Dst="2" />
+<file name="config.php" server="216.17.51.113//var/www/html/payments/" local="131418413065116919" remote="131418413140000000" Dst="2" />
+<file name="pre-authorize.php" server="216.17.51.113//var/www/html/payments/" local="131415178303185640" remote="131415178840000000" Dst="2" />
+</dwsync>

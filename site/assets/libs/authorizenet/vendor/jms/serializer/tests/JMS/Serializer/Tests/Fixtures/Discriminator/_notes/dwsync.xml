@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Car.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550139145" remote="131400505800000000" Dst="2" />
+<file name="Moped.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550219198" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlAttributeDiscriminatorChild.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550309255" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlAttributeDiscriminatorParent.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550399322" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlNamespaceDiscriminatorChild.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550490488" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlNamespaceDiscriminatorParent.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550580555" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlNotCDataDiscriminatorChild.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550670618" remote="131400505800000000" Dst="2" />
+<file name="ObjectWithXmlNotCDataDiscriminatorParent.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550750662" remote="131400505800000000" Dst="2" />
+<file name="Vehicle.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550840722" remote="131400505800000000" Dst="2" />
+<file name="VehicleInterface.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325550930782" remote="131400505800000000" Dst="2" />
+<file name="Car.php" server="216.17.51.113//var/www/html/payments/" local="131400325550139145" remote="131415096230000000" Dst="2" />
+<file name="Moped.php" server="216.17.51.113//var/www/html/payments/" local="131400325550219198" remote="131415096230000000" Dst="2" />
+<file name="ObjectWithXmlAttributeDiscriminatorChild.php" server="216.17.51.113//var/www/html/payments/" local="131400325550309255" remote="131415096230000000" Dst="2" />
+<file name="ObjectWithXmlAttributeDiscriminatorParent.php" server="216.17.51.113//var/www/html/payments/" local="131400325550399322" remote="131415096230000000" Dst="2" />
+<file name="ObjectWithXmlNamespaceDiscriminatorChild.php" server="216.17.51.113//var/www/html/payments/" local="131400325550490488" remote="131415096230000000" Dst="2" />
+<file name="ObjectWithXmlNamespaceDiscriminatorParent.php" server="216.17.51.113//var/www/html/payments/" local="131400325550580555" remote="131415096230000000" Dst="2" />
+<file name="ObjectWithXmlNotCDataDiscriminatorChild.php" server="216.17.51.113//var/www/html/payments/" local="131400325550670618" remote="131415096240000000" Dst="2" />
+<file name="ObjectWithXmlNotCDataDiscriminatorParent.php" server="216.17.51.113//var/www/html/payments/" local="131400325550750662" remote="131415096240000000" Dst="2" />
+<file name="Vehicle.php" server="216.17.51.113//var/www/html/payments/" local="131400325550840722" remote="131415096240000000" Dst="2" />
+<file name="VehicleInterface.php" server="216.17.51.113//var/www/html/payments/" local="131400325550930782" remote="131415096240000000" Dst="2" />
+</dwsync>
