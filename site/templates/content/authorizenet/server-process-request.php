@@ -33,6 +33,7 @@
 			$postrequest = $input->post->request;
 		}
 		delete_authorize_responserecord($ordn);
+
 		delete_authorize_record($ordn);
 		writeauthnetrecord($postrequest, false);
 		include ($config->paths->content.$gateway."/$gateway-router.php");

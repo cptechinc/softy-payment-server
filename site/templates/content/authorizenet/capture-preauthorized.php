@@ -9,6 +9,7 @@
     $transactionRequestType = new AnetAPI\TransactionRequestType();
     $transactionRequestType->setTransactionType(\net\authorize\api\constants\ANetEnvironment::TRANSACTION_TYPE_CAPTUREPRIORAUTH);
     $transactionRequestType->setRefTransId($request['trans_id']);
+	$transactionRequestType->setAmount($request['amount']);
 
     $transaction = new AnetAPI\CreateTransactionRequest();
     $transaction->setMerchantAuthentication($merchantAuthentication);

@@ -4,7 +4,7 @@
 
 	 // Set the transaction's refId
     $refId = 'ref' . time();
-    
+    $payment = new AnetAPI\PaymentType();
 	if ($request['track2'] == "") { //DECODED TRACK NBR
 		$retail = new AnetAPI\TransRetailInfoType();
 		$retail->setMarketType(\net\authorize\api\constants\ANetEnvironment::MARKET_TYPE_CNP);
@@ -13,14 +13,18 @@
 		$creditcard->setCardNumber($request['cc']); //DECODED TRACK NBR
 		$creditcard->setExpirationDate(authorizenetdate($request['expiredate']));  //DECODED EXPIRATION DATE
 		$creditcard->setCardCode($request['cvc']); //DECODED CVV
+		$payment->setCreditCard($creditcard);
 		
 	} else {
 		$retail = new AnetAPI\TransRetailInfoType();
 		$retail->setMarketType(\net\authorize\api\constants\ANetEnvironment::MARKET_TYPE_CP); //RETAIL CP
 		$retail->setDeviceType(\net\authorize\api\constants\ANetEnvironment::DEVICE_TYPE_PC); //PC REGISTER 
-		$creditcard = new AnetAPI\CreditCardTrackType();
-		$creditcard->setTrack1($request['track1']);
-		$creditcard->setTrack2($request['track2']);
+		
+		$trackdata = new AnetAPI\CreditCardTrackType();
+		$trackdata->setTrack1($request['track1']);
+		$trackdata->setTrack2($request['track2']);
+		$payment->setTrackData($trackdata);
+		
 	}
 	
 	$payment = new AnetAPI\PaymentType();
@@ -60,9 +64,6 @@
 	} else {
 		$response = $controller->executeWithApiResponse(\net\authorize\api\constants\ANetEnvironment::PRODUCTION);
 	}
-
-	
-
 
 	if ($response != null) {
 		if ($response->getMessages()->getResultCode() == \net\authorize\api\constants\ANetEnvironment::RESPONSE_OK) {

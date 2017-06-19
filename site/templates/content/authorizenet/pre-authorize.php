@@ -7,6 +7,8 @@
 
     // Create the payment data for a credit card
     
+	$payment = new AnetAPI\PaymentType();
+
 	if ($request['track2'] == "") { //DECODED TRACK NBR
 		$retail = new AnetAPI\TransRetailInfoType();
 		$retail->setMarketType(\net\authorize\api\constants\ANetEnvironment::MARKET_TYPE_CNP);
@@ -15,6 +17,7 @@
 		$creditcard->setCardNumber($request['cc']); //DECODED TRACK NBR
 		$creditcard->setExpirationDate(authorizenetdate($request['expiredate']));  //DECODED EXPIRATION DATE
 		$creditcard->setCardCode($request['cvc']); //DECODED CVV
+		$payment->setCreditCard($creditcard);
 	} else {
 		$retail = new AnetAPI\TransRetailInfoType();
 		$retail->setMarketType(\net\authorize\api\constants\ANetEnvironment::MARKET_TYPE_CP); //RETAIL CP
@@ -22,11 +25,8 @@
 		$creditcard = new AnetAPI\CreditCardTrackType();
 		$creditcard->setTrack1($request['track1']);
 		$creditcard->setTrack2($request['track2']);
+		$payment->setTrackData($creditcard);
 	}
-
-    $payment = new AnetAPI\PaymentType();
-    $payment->setCreditCard($creditcard);
-
 
     $address = new AnetAPI\CustomerAddressType();
 	$address->setAddress($request['street']);
