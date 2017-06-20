@@ -21,15 +21,13 @@
 		$retail->setDeviceType(\net\authorize\api\constants\ANetEnvironment::DEVICE_TYPE_PC); //PC REGISTER 
 		
 		$trackdata = new AnetAPI\CreditCardTrackType();
-		$trackdata->setTrack1($request['track1']);
+		//$trackdata->setTrack1($request['track1']); // ONLY NEED TRACK 1 OR 2
 		$trackdata->setTrack2($request['track2']);
 		$payment->setTrackData($trackdata);
 		
 	}
-	
-	$payment = new AnetAPI\PaymentType();
-	$payment->setCreditCard($creditcard);
 
+	
 	$address = new AnetAPI\CustomerAddressType();
 	$address->setAddress($request['street']);
 	$address->setZip($request['zipcode']);
@@ -65,11 +63,15 @@
 		$response = $controller->executeWithApiResponse(\net\authorize\api\constants\ANetEnvironment::PRODUCTION);
 	}
 
+
+
+
 	if ($response != null) {
 		if ($response->getMessages()->getResultCode() == \net\authorize\api\constants\ANetEnvironment::RESPONSE_OK) {
 			$tresponse = $response->getTransactionResponse();
 			
 			if ($tresponse != null && $tresponse->getMessages() != null)    { /// SUCCESS
+				
 				$display = array(
 					'error' => false,
 					'authcode' => $tresponse->getAuthCode(),

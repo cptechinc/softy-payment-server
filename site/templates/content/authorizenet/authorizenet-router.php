@@ -13,6 +13,8 @@
 		$transactiontype = $request['type']; //TYPE OF TRANSACTION TO MAKE
 		if ($request['rectype'] == 'REQ') {
 			
+			
+			
 			// Common setup for API credentials
 			$merchantAuthentication = new AnetAPI\MerchantAuthenticationType();
 			$merchantAuthentication->setName(AUTHORIZENET_API_LOGIN_ID);
@@ -32,5 +34,6 @@
 					include $config->paths->content.'authorizenet/capture-preauthorized.php';
 					break;
 			}
+			
 		} // if ($recordtype == 'REQ')
 	} // if ($input->get->ordn)

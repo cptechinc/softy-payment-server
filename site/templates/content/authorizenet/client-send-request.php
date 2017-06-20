@@ -22,7 +22,6 @@
 				'request' => $request
 			);
 			$response = curlrequest($url, $curlfields);
-			//echo json_encode($request);
 			$record = json_decode($response);
 			writeauthnetrecord($record, false);
 			echo json_encode(json_decode($response));

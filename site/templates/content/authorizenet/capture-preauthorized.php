@@ -5,7 +5,7 @@
   	// Set the transaction's refId
     $refId = 'ref' . time();
 
-    echo "Capturing the Authorization with transaction ID : " . $request['trans_id'] . "\n";
+   
     $transactionRequestType = new AnetAPI\TransactionRequestType();
     $transactionRequestType->setTransactionType(\net\authorize\api\constants\ANetEnvironment::TRANSACTION_TYPE_CAPTUREPRIORAUTH);
     $transactionRequestType->setRefTransId($request['trans_id']);
