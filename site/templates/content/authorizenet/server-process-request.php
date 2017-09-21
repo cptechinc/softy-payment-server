@@ -43,8 +43,6 @@
 			delete_authorize_record($ordn);
 			writeauthnetrecord($postrequest, false);
 		}
-		
-		
 		include ($config->paths->content.$gateway."/$gateway-router.php");
 	} else {
 		echo json_encode(array('response' => $response));

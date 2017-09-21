@@ -33,6 +33,9 @@
 				case 'CPREAUTH':
 					include $config->paths->content.'authorizenet/capture-preauthorized.php';
 					break;
+				case 'VOID':
+					include $config->paths->content.'authorizenet/void-transaction.php';
+					break;
 			}
 			
 		} // if ($recordtype == 'REQ')

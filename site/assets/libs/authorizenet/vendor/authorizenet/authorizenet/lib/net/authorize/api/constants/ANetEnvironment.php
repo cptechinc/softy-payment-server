@@ -21,4 +21,5 @@ class ANetEnvironment {
 	const TRANSACTION_TYPE_REFUND = 'refundTransaction';
 	const TRANSACTION_TYPE_AUTHONLY = 'authOnlyTransaction';
 	const TRANSACTION_TYPE_CAPTUREPRIORAUTH = 'priorAuthCaptureTransaction';
+	const TRANSACTION_TYPE_VOID = "voidTransaction";
 }

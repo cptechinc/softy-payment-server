@@ -1,22 +1,13 @@
-<?php
-
-include('./_head.php'); // include header markup ?>
-
-	<div id='content'><?php
-	
-		// output 'headline' if available, otherwise 'title'
+<?php 
+	delete_unused_records();
+	include('./_head.php'); 
+	echo "<div id='content'>";
 		echo "<h1>" . $page->get('headline|title') . "</h1>";
-	
-		// output bodycopy
 		echo $page->body;
-	
-		// render navigation to child pages
 		renderNav($page->children);
+	echo "</div>";
 	
-	?></div><!-- end content -->
-	
-	<div id='sidebar'><?php
-	
+	echo "<div id='sidebar'>";
 		if(count($page->images)) {
 	
 			// if the page has images on it, grab one of them randomly... 
@@ -28,12 +19,14 @@ include('./_head.php'); // include header markup ?>
 			// output the image at the top of the sidebar...
 			echo "<img src='$image->url' alt='$image->description' />";
 		}
-	
 		// output sidebar text if the page has it
 		echo $page->sidebar;
-	
-	?></div><!-- end sidebar -->
+	echo "</div>";
 
-<?php include('./_foot.php'); // include footer markup ?>
+	echo $config->servicetype;
+	
+	include('./_foot.php');
+?>
+
 
 

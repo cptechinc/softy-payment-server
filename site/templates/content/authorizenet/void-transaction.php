@@ -1,40 +1,30 @@
 <?php 
 	use net\authorize\api\contract\v1 as AnetAPI;
   	use net\authorize\api\controller as AnetController;
+  
+  	define("AUTHORIZENET_LOG_FILE", "phplog");
 
-  	// Set the transaction's refId
+    
+    // Set the transaction's refId
     $refId = 'ref' . time();
-
-  	// Create the payment data for a credit card
-    $creditcard = new AnetAPI\CreditCardType();
-    $creditcard->setCardNumber($request['cc']);
-    $creditcard->setExpirationDate(authorizenetdate($request['expiredate']));
-    $payment = new AnetAPI\PaymentType();
-    $payment->setCreditCard($creditcard);
-
-	// TIE INVOICE # TO THE TRANSACTION
-	$order = new AnetAPI\OrderType();
-    $order->setInvoiceNumber($request['ordernbr']);
-
     //create a transaction
     $transactionRequest = new AnetAPI\TransactionRequestType();
-    $transactionRequest->setTransactionType(\net\authorize\api\constants\ANetEnvironment::TRANSACTION_TYPE_REFUND); 
-    $transactionRequest->setAmount($request['amount']);
-	$transactionRequest->setOrder($order);
-    $transactionRequest->setPayment($payment);
+    $transactionRequest->setTransactionType(\net\authorize\api\constants\ANetEnvironment::TRANSACTION_TYPE_VOID); 
+    $transactionRequest->setRefTransId($request['trans_id']);
 
-    $refund = new AnetAPI\CreateTransactionRequest();
-    $refund->setMerchantAuthentication($merchantAuthentication);
-    $refund->setRefId($refId);
-    $refund->setTransactionRequest($transactionRequest);
-    $controller = new AnetController\CreateTransactionController($refund);
+    $request = new AnetAPI\CreateTransactionRequest();
+    $request->setMerchantAuthentication($merchantAuthentication);
+	$request->setRefId($refId);
+    $request->setTransactionRequest($transactionRequest);
+
+    $controller = new AnetController\CreateTransactionController($request);
 
     if (AUTHORIZENET_SANDBOX) {
 		$response = $controller->executeWithApiResponse(\net\authorize\api\constants\ANetEnvironment::SANDBOX);
 	} else {
 		$response = $controller->executeWithApiResponse(\net\authorize\api\constants\ANetEnvironment::PRODUCTION);
 	}
-
+   
 	if ($response != null) {
 		if ($response->getMessages()->getResultCode() == \net\authorize\api\constants\ANetEnvironment::RESPONSE_OK) {
 			$tresponse = $response->getTransactionResponse();

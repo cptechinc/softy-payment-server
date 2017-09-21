@@ -90,4 +90,3 @@ $config->installed = 1497019548;
  * 
  */
 $config->httpHosts = array('216.17.51.113');
-

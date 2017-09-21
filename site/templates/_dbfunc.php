@@ -64,6 +64,11 @@
 		return returnsqlquery($sql->queryString, $switching, $withquotes);
 	}
 
+	function delete_unused_records() {
+		$sql = wire('database')->prepare("CALL remove_old_payments()");
+		$sql->execute();
+	}
+
 	function returnsqlquery($sql, $oldtonew, $havequotes) {
 		$i = 0;
 		foreach ($oldtonew as $old => $new) {

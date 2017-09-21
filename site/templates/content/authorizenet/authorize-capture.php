@@ -112,7 +112,8 @@
 			}
 		} else { // fAILED
 			$tresponse = $response->getTransactionResponse();
-
+			
+			
 			if ($tresponse != null && $tresponse->getErrors() != null) {
 				$display = array(
 					'error' => true,
