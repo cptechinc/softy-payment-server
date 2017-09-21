@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="ApiCoreTestBase.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325660244468" remote="131400505800000000" Dst="2" />
-<file name="CreateTransactionControllerTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325660484632" remote="131400505800000000" Dst="2" />
-<file name="LogoutControllerTest.php" server="192.168.1.2//var/www/html/paymentprocessing/" local="131400325660524639" remote="131400505800000000" Dst="2" />
-<file name="ApiCoreTestBase.php" server="216.17.51.113//var/www/html/payments/" local="131400325660244468" remote="131415095050000000" Dst="2" />
-<file name="CreateTransactionControllerTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325660484632" remote="131415095050000000" Dst="2" />
-<file name="LogoutControllerTest.php" server="216.17.51.113//var/www/html/payments/" local="131400325660524639" remote="131415095050000000" Dst="2" />
-</dwsync>
